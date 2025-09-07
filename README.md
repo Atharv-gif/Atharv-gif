@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm Atharv Giri, a mobile app developer focused on building impactful and efficient digital products.<br><br>Currently working on E-KABADI, a smart waste management app using Flutter and Firebase.<br><br>Skilled in Flutter, Firebase, Dart, Java, Git, and UI/UX design principles.<br><br>I enjoy solving real-world problems through clean code and practical design.<br><br>Open to freelance work, collaborations, or innovative tech projects.<br><br>I believe in continuous learning, writing maintainable code, and delivering user-first experiences.
 
 
