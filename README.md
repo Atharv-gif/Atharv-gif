@@ -1,17 +1,11 @@
 <h3 data-importer="text" align="left">ATHARV GIRI</h3>
 
-###
-
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Atharv-gif/Atharv-gif/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Atharv-gif/Atharv-gif/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-gif&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-gif&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <img data-importer="image" align="right" height="152" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dsMTB0b3NvYmNsMDdubWxwa3p2YjE2d3EydGlvOG04aXkzbmNmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDn8Wv2gIDDl3B99d2/giphy.gif"  />
-
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -31,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
-
 <div data-importer="socials" align="left">
   <a href="mailto:atharv.giri999@gmail.com?subject=Hello%20Atharv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -42,10 +34,5 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/Atharv-gif/Atharv-gif/snake-output/snake.svg" alt="Snake animation" />
-
-###
