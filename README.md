@@ -1,8 +1,8 @@
 <h3 data-importer="text" align="left">ATHARV GIRI</h3>
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-gif&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-gif&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Atharv-gif&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atharv-gif&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <img data-importer="image" align="right" height="152" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dsMTB0b3NvYmNsMDdubWxwa3p2YjE2d3EydGlvOG04aXkzbmNmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDn8Wv2gIDDl3B99d2/giphy.gif"  />
