@@ -1,8 +1,7 @@
 <h1 align="center">Hellow, I'm Atharv Giri </h1>
 
 <p align="center">
-  Passionate developer building impactful mobile apps using Flutter and Firebase.<br/>
-  Currently working on <b>E-Kabadi</b>.
+  Passionate developer building impactful mobile apps .<br/>
 </p>
 
 <br/>
