@@ -6,12 +6,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Atharv-gif&show_icons=true&theme=dracula&hide_border=false" height="165" alt="stats graph" />
-  &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atharv-gif&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="165" alt="languages graph" />
-</div>
-
 <br/>
 
 <table align="center">
