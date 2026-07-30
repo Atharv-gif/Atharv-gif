@@ -42,6 +42,3 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Atharv-gif/Atharv-gif/snake-output/snake-dark.svg" alt="Snake animation" width="100%" />
-</p>
